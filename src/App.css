@@ -1,0 +1,12 @@
+body{
+  /* background: url('./assets/background.jpg')no-repeat; */
+  background: linear-gradient(to right, #749ba2, #a59f9f,#9c747f, #a59f9f, #417c90);
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+
+}
+
+a{
+  text-decoration: none;
+}
