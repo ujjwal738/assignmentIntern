@@ -24,8 +24,8 @@ Follow the steps below to set up and run the project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/react-canvas-draw.git
-cd react-canvas-draw
+git clone https://github.com/ujjwal738/assignmentIntern.git
+cd assignmentIntern
 ```
 
 ### 2. Install Dependencies
@@ -101,12 +101,6 @@ export default App;
 ## 🤝 Contributing
 
 Contributions are welcome! If you encounter any issues or have feature requests, feel free to open an issue or create a pull request.
-
----
-
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
