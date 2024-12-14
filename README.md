@@ -2,6 +2,10 @@
 
 This project demonstrates the integration of **React.js v19** with the `react-canvas-draw` library to create a canvas drawing application. Users can draw freely on the canvas, clear their drawings, and even save or load them as JSON data for persistence.
 
+## 🔗 Live Demo
+
+Check out the live version of this project here: [Live Demo](https://ujjwal738.github.io/internAssignment/)
+
 ---
 
 ## 🚀 Features
@@ -121,7 +125,7 @@ Special thanks to the contributors of [react-canvas-draw](https://github.com/emb
 
 Working of the project Screenshot:
 
-Landing page:
+Home page:
 ![image](https://github.com/user-attachments/assets/99eeeb27-1eb0-42a7-b3fd-473071997821)
 
 
