@@ -4,7 +4,7 @@ This project demonstrates the integration of **React.js v19** with the `react-ca
 
 ## 🔗 Live Demo
 
-Check out the live version of this project here: [Live Demo](https://ujjwal738.github.io/internAssignment/)
+Check out the live version of this project here: [Live Demo](https://ujjwal738.github.io/assignmentIntern/)
 
 ---
 
